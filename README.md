@@ -16,12 +16,8 @@ npm or yarn package manager
 Installation
 Clone the repository and install dependencies:
 
-bash
-Copy code
-
 # Clone this repository
-
-git clone https://github.com/your-username/shadcn-tailwind-jsx-starter.git
+git clone https://github.com/diyor1602/shadcn-tailwind-jsx-starter.git
 
 # Navigate to the project directory
 
@@ -37,14 +33,7 @@ yarn install
 Run the Development Server
 Start the local development server:
 
-bash
-Copy code
 npm run dev
-
-# or
-
-yarn dev
-Open your browser and go to http://localhost:3000 to see the app running.
 
 Acknowledgments
 Thanks to Tailwind CSS and ShadCN for their amazing tools and resources.
