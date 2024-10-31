@@ -30,8 +30,9 @@ npm install
 # or
 
 yarn install
+
+
 Run the Development Server
-Start the local development server:
 
 npm run dev
 
